@@ -1,5 +1,5 @@
 layout: post
-title: "Frequentist vs Baseyian: The Gambler's Fallacy"
+title: "the-gamblers-fallacy"
 <!-- date: 2022-11-03 13:43:22 -0000 -->
 categories: Bayesian Frequentism
 
