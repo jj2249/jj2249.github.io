@@ -1,7 +1,8 @@
+---
 layout: post
-title: "the-gamblers-fallacy"
-<!-- date: 2022-11-03 13:43:22 -0000 -->
+title: The Gambler's Fallacy
 categories: Bayesian Frequentism
+---
 
 
 
