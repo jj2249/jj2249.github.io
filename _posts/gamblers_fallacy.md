@@ -1,12 +1,8 @@
 ---
 layout: post
-title: The Gambler's Fallacy
+title: "Frequentist vs Bayesian: The Gambler's Fallacy"
 categories: Bayesian Frequentism
 ---
-
-
-
-
 
 ### This is only a test for now
 
