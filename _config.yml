@@ -1,3 +1,15 @@
-theme: jekyll-theme-minimal
-title: Musings
+title: Dazed and Confounding
 description: bla-de-bla-de-bla
+
+theme: minima   # GitHub Pages supports this by default
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-gist
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-titles-from-headings
+
+paginate: 5
+markdown: kramdown
+highlighter: rouge
