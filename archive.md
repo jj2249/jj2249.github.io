@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Archive
 permalink: /archive/
+layout: page
 ---
 
 # All Posts
