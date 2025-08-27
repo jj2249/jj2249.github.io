@@ -1,6 +1,6 @@
 title: Dazed and Confounding
 
-theme: minima   # GitHub Pages supports this by default
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-paginate
