@@ -1,3 +1,0 @@
-# jj2249.github.io
-
-This is a test...

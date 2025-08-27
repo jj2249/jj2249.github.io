@@ -1,6 +1,6 @@
 layout: page
 title: "Non-linear System Identification"
-permalink: /nl-system-id
+date: 2025-08-27
 
 Spring damper system of the following form
 $F_s = -ks^p$

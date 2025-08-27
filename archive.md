@@ -1,19 +1,15 @@
 ---
-layout: page
-title: Home
+layout: default
+title: Archive
+permalink: /archive/
 ---
 
-# Welcome
-Hi, 
-
-
+# All Posts
 <ul>
-  {% for post in site.posts limit:5 %}
+  {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
       <small>({{ post.date | date: "%b %-d, %Y" }})</small>
     </li>
   {% endfor %}
 </ul>
-
-<p><a href="/archive">View all posts →</a></p>
